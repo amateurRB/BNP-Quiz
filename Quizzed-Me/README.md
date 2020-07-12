@@ -1,4 +1,4 @@
 # Javascript-Quiz
-A simple, dynamical and friendly online quiz about a local hip-hop band. 
+A simple, dynamical and mobile friendly website quiz on Brand taglines
 
 Technologies: Javascript, JSON, HTML, CSS, Bootstrap
