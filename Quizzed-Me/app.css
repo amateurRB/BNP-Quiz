@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+.container h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:rgb(27, 199, 41);
+
+}
+
+body
+{
+       color: white; /* The page text will be white */
+    background: linear-gradient(rgb(138, 243, 173),rgb(9, 17, 17));
+    
+        font-family: Arial, Helvetica, sans-serif;
+      
+
+}
+.footer{
+    color:black;
+
+}
+.col-sm-6 {
+    
+    padding: 10px;
+}
+.pageMovement {
+    margin-top: 25px;
+}
+.answer {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+    background: #C6F3FF;
+}
+
+.answer:hover {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 80%;
+    background: #054658;
+    color: white;
+}
+
+
+.container {
+    border: solid 1px #D8D8D8;
+    background-color: rgb(24, 23, 23);
+}
+.hide {
+    display:none;
+}
+.show {
+    display:block;
+}
+.progress {
+    margin-top: 25px;
+
+}
+#finishQuiz {
+    margin-top: 25px;
+}
+.output {
+    font-size:20px;
+}
+.glyphicon-ok-circle {
+    color:#00FF64;
+}
+.glyphicon-remove-circle {
+    color:#FF0004;
+}
+.selAnswer {
+    background: #4E9267;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(198, 209, 201);
+    color: black;
+  }
